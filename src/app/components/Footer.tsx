@@ -126,7 +126,7 @@ const Footer = () => (
         </p>
         <p className="flex items-center gap-2">
           Made with <span className="text-red-600 animate-pulse">❤️</span> in
-          Pakistan
+          India
         </p>
       </div>
     </div>
