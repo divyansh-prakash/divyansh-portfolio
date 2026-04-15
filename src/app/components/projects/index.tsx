@@ -1,11 +1,6 @@
 "use client";
-import { projectsData } from "@/../utils/Data/projects-data";
-import { MoveUpRight } from "lucide-react";
-import Link from "next/link";
-import ProjectCard from "./project-card";
 
 const Projects = () => {
-  const displayedProjects = projectsData.slice(0, 3);
   return (
     <></>
     // <section
