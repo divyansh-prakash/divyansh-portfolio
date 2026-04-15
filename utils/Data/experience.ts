@@ -45,4 +45,16 @@ export const experiences = [
       "Worked across multiple modules simultaneously while maintaining responsive and cross-browser compatible UI.",
     ],
   },
+  {
+    id: 4,
+    title: "Frontend Development Intern",
+    company: "Euinac Technologies",
+    duration: "(Jul 2020 – Oct 2020)",
+    details: [
+      "Assisted in building and maintaining responsive web pages using HTML, CSS, JavaScript, and Bootstrap.",
+      "Worked with senior developers to implement basic UI components and improve cross-browser compatibility.",
+      "Integrated simple REST API responses into frontend views and supported debugging of web application issues.",
+      "Participated in testing, bug fixing, and day-to-day development tasks to support ongoing web projects.",
+    ],
+  },
 ];
