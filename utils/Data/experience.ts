@@ -1,0 +1,48 @@
+export const experiences = [
+  {
+    id: 1,
+    title: "Senior Software Engineer",
+    company: "Silverpush",
+    duration: "(May 2024 – Present)",
+    details: [
+      "Led frontend development across two parallel applications, owning architecture decisions and guiding implementation for a team of 5 engineers.",
+      "Designed scalable Angular application architecture and project structure, establishing reusable component patterns and shared modules across applications.",
+      "Introduced modern Angular patterns using Signals and advanced RxJS, improving application reactivity and simplifying state management.",
+      "Built 3 Chrome extensions end-to-end, including 2 React + Redux Toolkit applications, implementing browser APIs and optimizing component rendering using React.memo and hooks-based patterns.",
+      "Defined state management approaches using Redux Toolkit in React and Signal Store patterns in Angular, enabling predictable and scalable application state handling.",
+      "Led code reviews and established frontend coding standards, ensuring consistent architecture and maintainable code across projects.",
+      "Collaborated with backend engineers to design and integrate REST APIs supporting complex dashboard and workflow-based frontend applications.",
+      "Worked with Node.js-based services and MongoDB-backed APIs to support application functionality and data workflows.",
+      "Participated in technical discussions and architectural decisions, contributing to performance optimizations and feature design across projects.",
+    ],
+  },
+  {
+    id: 2,
+    title: "Associate Software Engineer",
+    company: "Unthinkable Solutions",
+    duration: "(Jan 2023 – May 2024)",
+    details: [
+      "Developed and maintained Angular-based single-page applications for enterprise and government clients.",
+      "Built reusable UI components and shared modules, reducing development effort and improving code consistency across projects.",
+      "Optimized application performance through lazy loading, modular architecture, and component refactoring, improving page load performance by 30%.",
+      "Integrated REST APIs into Angular and React functional components using hooks, enabling data-driven dashboards and workflow-based UI features.",
+      "Implemented client-side authentication and secure data handling, including encryption and decryption for sensitive API communication and browser storage.",
+      "Collaborated with cross-functional teams to deliver scalable and maintainable frontend solutions.",
+      "Contributed to code reviews, debugging, and refactoring to maintain high code quality and application stability.",
+      "Implemented form validation, error handling, and user feedback mechanisms to improve reliability and usability of frontend workflows.",
+    ],
+  },
+  {
+    id: 3,
+    title: "Junior Associate Software Engineer",
+    company: "Unthinkable Solutions",
+    duration: "(Jan 2021 – Jan 2023)",
+    details: [
+      "Developed responsive single-page applications using Angular, TypeScript, and modern component-based architecture.",
+      "Built interactive dashboards and complex UI workflows, implementing client-side state management and dynamic data handling for responsive user interfaces.",
+      "Implemented features such as pagination, filtering, search, and data visualization to improve user experience.",
+      "Migrated legacy Angular applications to newer Angular versions, improving maintainability and performance.",
+      "Worked across multiple modules simultaneously while maintaining responsive and cross-browser compatible UI.",
+    ],
+  },
+];
